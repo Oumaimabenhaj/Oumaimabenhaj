@@ -1,6 +1,6 @@
 <<p align="center">
   <!-- Icône de développeur (remplacez l'URL par votre image préférée) -->
-  <img src="https://cdn-icons-png.flaticon.com/512/921/921071.png" width="100px" alt="Developer Icon"> 
+  <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="100px">
   <br>
   <br>
   <!-- Animation de texte -->
