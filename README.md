@@ -1,11 +1,25 @@
 <p align="center">
-  <!-- Icône sélectionnée -->
-  <img src="https://cdn-icons-png.flaticon.com/512/5996/5996831.png" width="120px" style="filter: drop-shadow(0 0 8px #9370db80);border-radius:50%">
+  <!-- Avatar animé avec effet de mouvement -->
+  <img src="https://media.tenor.com/5ry-200hErMAAAAi/hacker-pepe.gif" width="140px" style="border-radius:50%;filter: drop-shadow(0 0 10px #ff7f50)">
+  
+  <!-- Texte avec animation fluide -->
   <br>
-  <br>
-  <!-- Animation texte -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=FF7F50&center=true&width=500&lines=Hey+world!+👩‍💻+I'm+Oumaima+Benhaj;Data+Science+Student+🌟+@ESPRIT;Tunisian+developer+🇹🇳;AI+enthusiast+🤖;Let's+code+together!+💻" alt="Typing Animation" />
+  <div style="font-size:24px;font-weight:600;color:#FF7F50;text-shadow:1px 1px 4px rgba(0,0,0,0.1)">
+    <span class="typing-effect">Hi! I'm Oumaima Benhaj</span><br>
+    <span class="typing-effect" style="animation-delay:1.5s">Data Science Student @ESPRIT</span>
+  </div>
 </p>
+
+<style>
+  @keyframes typing {
+    from { opacity:0; }
+    to { opacity:1; }
+  }
+  .typing-effect {
+    animation: typing 1s ease-out;
+    display:inline-block;
+  }
+</style>
 
 
 ---
