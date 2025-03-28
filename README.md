@@ -1,10 +1,10 @@
 <p align="center">
-  <!-- Belle icône de développeuse féminine -->
-  <img src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png" width="120px" style="filter: drop-shadow(0 0 5px #ff7f5050);border-radius:50%"> 
+  <!-- Icône sélectionnée -->
+  <img src="https://cdn-icons-png.flaticon.com/512/5996/5996831.png" width="120px" style="filter: drop-shadow(0 0 8px #9370db80);border-radius:50%">
   <br>
   <br>
-  <!-- Animation de texte améliorée -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1500&color=FF7F50&center=true&width=500&height=50&lines=Hey+there!+👋+I'm+Oumaima+Benhaj;Data+Science+Student+✨+at+ESPRIT;From+Tunisia+🇹🇳;Open+to+collaborate+🤝" alt="Typing Animation" />
+  <!-- Animation texte -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=FF7F50&center=true&width=500&lines=Hey+world!+👩‍💻+I'm+Oumaima+Benhaj;Data+Science+Student+🌟+@ESPRIT;Tunisian+developer+🇹🇳;AI+enthusiast+🤖;Let's+code+together!+💻" alt="Typing Animation" />
 </p>
 
 
