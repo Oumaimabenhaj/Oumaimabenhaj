@@ -62,8 +62,8 @@
 
 ### 📫 How to Reach Me
 📧 **Email:** [Benhaj.Oumaima@esprit.tn](mailto:Benhaj.Oumaima@esprit.tn)  
-🔗 **LinkedIn:** [Oumaima Benhaj](#)  
-🐦 **GitHub:** [@OumaimaBenhaj](https://github.com/OumaimaBenhaj)  
+🔗 **LinkedIn:** [[Oumaima Benhaj](https://www.linkedin.com/feed/)](#)  
+
 
 <p align="center">
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
