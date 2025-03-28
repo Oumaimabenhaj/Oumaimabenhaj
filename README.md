@@ -1,16 +1,12 @@
-<<p align="center">
-  <!-- Icône de développeur (remplacez l'URL par votre image préférée) -->
-  <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="100px">
+<p align="center">
+  <!-- Belle icône de développeuse féminine -->
+  <img src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png" width="120px" style="filter: drop-shadow(0 0 5px #ff7f5050);border-radius:50%"> 
   <br>
   <br>
-  <!-- Animation de texte -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF7F50&width=435&lines=Hey!+It's+Oumaima+Benhaj...;Data+Science+Student+%7C+at+ESPRIT;From+Tunisia+%F0%9F%87%B9%F0%9F%87%B3;Open+to+collaborate+%F0%9F%92%AC" alt="Typing Animation" />
+  <!-- Animation de texte améliorée -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1500&color=FF7F50&center=true&width=500&height=50&lines=Hey+there!+👋+I'm+Oumaima+Benhaj;Data+Science+Student+✨+at+ESPRIT;From+Tunisia+🇹🇳;Open+to+collaborate+🤝" alt="Typing Animation" />
 </p>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=OumaimaBenhaj&label=Profile+Views&color=blue" alt="Profile Views">
-  <img src="https://img.shields.io/github/followers/OumaimaBenhaj?label=Followers&style=social" alt="GitHub Followers">
-</div>
 
 ---
 
