@@ -1,8 +1,10 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDFtYzVkY2VtZ3Z2dWx6Y2JtZ3R6eGZqY2N4bnBmYzZ1ZGNiY3B6biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> 
+<<p align="center">
+  <!-- Icône de développeur (remplacez l'URL par votre image préférée) -->
+  <img src="https://cdn-icons-png.flaticon.com/512/921/921071.png" width="100px" alt="Developer Icon"> 
   <br>
   <br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF7F50&width=435&lines=Hey!+It's+Oumaima+Benhaj...;Data+Science+Student+%7C+AI+Enthusiast;From+Tunisia+%F0%9F%87%B9%F0%9F%87%B3;Open+to+collaborate+%F0%9F%92%AC" alt="Typing Animation" />
+  <!-- Animation de texte -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF7F50&width=435&lines=Hey!+It's+Oumaima+Benhaj...;Data+Science+Student+%7C+at+ESPRIT;From+Tunisia+%F0%9F%87%B9%F0%9F%87%B3;Open+to+collaborate+%F0%9F%92%AC" alt="Typing Animation" />
 </p>
 
 <div align="center">
