@@ -62,7 +62,7 @@
 
 ### 📫 How to Reach Me
 📧 **Email:** [Benhaj.Oumaima@esprit.tn](mailto:Benhaj.Oumaima@esprit.tn)  
-🔗 **LinkedIn:** [[Oumaima Benhaj](https://www.linkedin.com/feed/)](#)  
+🔗 **LinkedIn:** [(https://www.linkedin.com/feed/)](#)  
 
 
 <p align="center">
